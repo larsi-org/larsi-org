@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @larsi-org
+- 👀 I’m interested in electronics, fabrication, and coding.
+- 🌱 I’m currently learning go.  A lot of fun so far.
+- 💞️ I’m looking to collaborate on fun projects
+- 📫 You can email me larsi.org@gmail.com
